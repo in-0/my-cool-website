@@ -1,2 +1,3 @@
 
-, thisi is my first commit.
+Hellow, this is my first commit.
+I am learning Git.
